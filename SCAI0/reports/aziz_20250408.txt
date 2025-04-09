@@ -1,0 +1,51 @@
+============================================================
+FOOTBALL TALENT SCOUT - PLAYER ANALYSIS REPORT
+Generated: 2025-04-08 18:46:38
+============================================================
+
+PLAYER INFORMATION
+--------------------
+Name: aziz
+Age: 31.0
+Nationality: ksa
+Current Club: ksa
+Preferred Foot: Right
+
+PERFORMANCE METRICS
+--------------------
+Overall Rating: 60.0
+Potential Rating: 60.0
+Speed Rating: 27.0
+Agility Rating: 50.0
+
+AI EVALUATION RESULTS
+--------------------
+Development Level: Development Required
+Potential Score: 35.58
+Confidence Level: 100.00%
+Estimated Market Value: £30,000.00
+
+KEY STRENGTHS
+--------------------
+• Ideal Physical Build
+
+DEVELOPMENT AREAS
+--------------------
+• Speed Enhancement Training Required
+• Agility Development Needed
+• Technical Skills Enhancement Required
+
+SIMILAR PLAYERS COMPARISON
+--------------------
+Name                      Age  Overall Potential     Value(£)
+-----------------------------------------------------------------
+aziz                       31       60        60       30,000
+A. Demir                   25       51        56       30,000
+21آ D. Kalinowski          22       50        60       44,000
+22آ S. Booth               20       51        60       55,500
+22آ N. Sorras              23       50        57       37,450
+Yang Xinyang               18       50        62       67,200
+
+RECOMMENDATION
+--------------------
+Development player with areas for improvement. Experienced player. Focus on maintaining performance level.

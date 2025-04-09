@@ -1,0 +1,10 @@
+numpy>=1.21.0
+pandas>=1.3.0
+scikit-learn>=1.0.0
+tensorflow>=2.8.0
+xgboost>=1.5.0
+matplotlib>=3.4.0
+seaborn>=0.11.0
+tensorflow-addons>=0.17.0  # For advanced neural network components
+scipy>=1.7.0  # For statistical computations
+joblib>=1.1.0  # For model persistence
